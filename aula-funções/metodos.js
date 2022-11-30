@@ -2,6 +2,8 @@
 // usamos o ponto (.) para acessar os métodos de um objeto ou tipo de dado e os parênteses () 
 // para invocar o método
 
+// método é uma função dentro de um objeto ou tipo de dado 
+
 const pessoa = {
     nome: 'João',
     sobrenome: 'da Silva',
